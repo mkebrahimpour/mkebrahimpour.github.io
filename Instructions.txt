@@ -1,0 +1,5 @@
+1- Download the jemdoc.py and templates from the following link:
+       https://people.kth.se/~euhanna/description.html
+2- sudo cp jemdoc.py /usr/bin/jemdoc
+3- sudo chmod 755 /usr/bin/jemdoc
+
