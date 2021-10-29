@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+
+[https://scholar.google.com/citations?user=kG-9YOoAAAAJ&hl=en My google scholar]
+== List of Publications 
+- Deep Metric Learning
+. M.K.Ebrahimpour, G.Qian, A.Beach, ``Multi-Head Deep Metric Learning Using Global and Local Representations'', /In WACV 2022/. \n \[[papers/wacv2022.pdf paper]\]\
+- Auditory Object Recognition
+. M.K.Ebrahimpour, S.Schneider, D.C.Noelle, C.Kello, ``Infantnet: A deep neural network for analyzing infant vocalizations'' , /In arXiv 2020/. \n \[[https://arxiv.org/pdf/2005.12412.pdf paper]\]\
+. M.K.Ebrahimpour, T.M.Shea, A.Danielescu, D.C.Noelle, C.Kello, ``End-to-End Auditory Object Recognition on Neuromorpic hardware chip'', /In TinyML 2020/. \n \[[papers/tinyml.pdf paper]\]\
+. M.K.Ebrahimpour, T.M.Shea, A.Danielescu, D.C.Noelle, C.Kello, ``End-to-End Auditory Object
+Recognition via Inception Nucleus'', /In ICASSP 2020/. \n \[[papers/ICASSP2020.pdf paper]\]\ 
+- Object Detection
+. M.K.Ebrahimpour, J.B. Falandays, S.Spevack, M.H.Yang, D.C.Noelle, ``WW-Nets: Dual Neural
+Networks for Object Detection'', /In IJCNN 2020/. \n \[[papers/IJCNN2020.pdf paper]\]
+. M.K.Ebrahimpour, J.B.Falandays, S.Spevack, D.C.Noelle, ``Do Humans Look Where Deep Convolutional Neural Networks `Attend' ''?, /In CogSci 2019./ \n \[[papers/cogsci2019.pdf paper]\]\ 
+. M.K.Ebrahimpour, D.C.Noelle, ``Fast Object Localization via Sensitivity Analysis'', /In ISVC 2019./ \n \[[papers/sensitivity.pdf paper]\]\ 
+. M.K.Ebrahimpour, J.B.Falandays, S.Spevack, D.C.Noelle, ``Do Humans Look Where Deep Convolutional Neural Networks `Attend' ''?, /In ISVC 2019./ \n \[[papers/attention.pdf paper]\]\ 
+. J.Li, M.K.Ebrahimpour, Y.Y.Yu, ``Image Captioning with Weakly-Supervised Attention Penalty'', /In CVPRW 2019./
+\n \[[https://arxiv.org/pdf/1903.02507.pdf paper]\]\ 
+. M.K.Ebrahimpour, J.Li, Y.Y.Yu, J.Reese, A.Moghtaderi, M.H,Yang, D.C. Noelle, ``Ventral-Dorsal Networks: Object Detection via Selective Attention'', /In WACV 2019./ \n \[[papers/wacv2019.pdf paper]\]\[[https://github.com/mkebrahimpour/VDNET implementation]\]
+. M.K.Ebrahimpour, D.C.Noelle, ``Weakly Supervised Object Localization via Sensitivity Analysis'', /In CVPRW 2018./ \n \[[papers/cvpr2018.pdf paper]\]
+- Optimization 
+. M.K.Ebrahimpour, H.Nezamabadi-pour, M.Eftekhari, ``CCFS: A Cooperation Coevolution Techniques for Large Scale Feature Selection on Microarray Datasets'', /In Computational Biology and Chemistry 2017./ \n \[[https://www.ncbi.nlm.nih.gov/pubmed/29494925 paper]\]\[[https://www.researchgate.net/profile/Mohammad_Ebrahimpour/research implementation]\]
+- Dimensionality Reduction 
+. M.K.Ebrahimpour, H.Mirvaziri, and V.Sattari-Naeini, ``Improving Breast Cancer Classification by Dimensional Reduction on Mammograms'', /In Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization 2017./\n
+\[[http://www.tandfonline.com/doi/abs/10.1080/21681163.2017.1326847 paper]\]\ \[[https://www.researchgate.net/profile/Mohammad_Ebrahimpour/research implementation]\]
+- Feature Selection
+. M.K.Ebrahimpour, M.Eftekhari, ``MCMR: Maximum Consistency Minimum Redundancy for Microarray High-Dimensional Feature Selection'', /In Pattern Recognition 2017/ \n
+\[[paper]\]\
+. M.K.Ebrahimpour, M.Eftekhari, ``Distributed Feature Selection: A Hesitant Fuzzy Correlation Concept for Microarray High-Dimensional Datasets'', /In Chemometrics and Intelligent Laboratory Systems 2018./ \n
+\[[https://www.sciencedirect.com/science/article/pii/S0169743917305518 paper]\]\[[https://www.researchgate.net/profile/Mohammad_Ebrahimpour/research implementation]\]\n
+. M.K.Ebrahimpour, M.Eftekhari, ``Occam’s Razor in Dimension Reduction: Using Reduced Row Echelon Form for Finding Linear Independent Features for High Dimensional Feature Selection'', /In Engineering Applications of Artificial Intelligence 2017./\n
+\[[http://www.sciencedirect.com/science/article/pii/S0952197617300702 paper]\]\[[https://www.researchgate.net/profile/Mohammad_Ebrahimpour/research implementation]\]\n
+. M.K.Ebrahimpour, M.Eftekhari, ``Ensemble of Feature Subset Selection Methods: A Hesitant Fuzzy Set Approach'', /In Applied Soft Computing 2017./ \n
+\[[http://www.sciencedirect.com/science/article/pii/S1568494616305907 paper]\]\[[https://www.researchgate.net/profile/Mohammad_Ebrahimpour/research implementation]\]\n
+. M.K.Ebrahimpour, M.Eftekari, ``Feature Subset selection using Information Energy and correlation coefficients of hesitant fuzzy sets'', /InInternational Conference on Information and Knowledge Technology (IKT 2015)./\n
+\[[http://ieeexplore.ieee.org/abstract/document/7288746/ paper]\]\n
+. M.K.Ebrahimpour, M.Eftekhari, ``Proposing a Novel Feature Selection Algorithm based on Hesitant Fuzzy Sets and Correlation Concepts'', /In Artificial Intelligence and Signal Processing (AISP 2015)./\n
+\[[http://ieeexplore.ieee.org/abstract/document/7123537/ paper]\] \n
+- Ensemble Learning
+. N.A.Abolkarlou, A.A.Niknafs, M.K.Ebrahimpour, ``Ensemble Imbalanced Classification: Using Data Preprocessing, Clustering Algorithm and Genetic Algorithm'', /In Computer and Knowledge Engineering (ICCKE 2014)./\n
+\[[http://ieeexplore.ieee.org/abstract/document/6993364/ paper]\]\n
+. N.Afshari, M.K.Ebrahimpour, A.A.Niknafs, ``Improving the Ensemble Classifiers based on Clustering Approaches and Genetic Algorithm'', /In International conference on information Technology and Computer 2014./\n
+
