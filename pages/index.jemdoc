@@ -3,15 +3,21 @@
 
 ~~~
 {}{img_left}{pic/Mohammad-E.png}{alt text}{250}{300}{https://mkebrahimpour.github.io/}
-Senior Research Scientist @ Ericsson Inc. \n
+AI ML Scientist @ Apple. \n
 E-mail: /mebrahimpour/ \[@\] ucmerced \[DOT\] edu
 ~~~
 
 == About me
-I received my Ph.D. from the University of California, Merced working with [https://www.ucmerced.edu/content/david-c-noelle Prof. David C. Noelle] in 2020. Before that, I obtained my B.Sc. and M.Sc. degrees in computer engineering and artificial intelligence from Shahid Bahonar University of Kerman, Iran [http://www.uk.ac.ir (SBUK)] in 2013 and 2015, respectively. My basic research interests are in deep learning. In recent years, I have been working on a variety of topics including object detection, fast similarity search and deep metric learning, 3d-perception, voice to mesh, and auditory object recognition. Other topics of interest are dimensionality reduction, feature selection, and combinatorial optimization. You may take a look at my brief [cv/Ebrahimpour-CV.pdf CV].
+I earned my Ph.D. from the University of California, Merced in 2020, under the mentorship of Prof. David C. Noelle [https://www.ucmerced.edu/content/david-c-noelle]. Prior to this, I completed my academic journey with a B.Sc. and M.Sc. in computer engineering and artificial intelligence from Shahid Bahonar University of Kerman, Iran [http://www.uk.ac.ir (SBUK)] in 2013 and 2015, respectively.
+
+My recent research has been centered on Generative AI and its applications on Large Language Models (LLM). In the past, my work spanned diverse areas, including object detection, fast similarity search, deep metric learning, 3D perception, voice to mesh, and auditory object recognition. Additionally, I have a keen interest in topics such as dimensionality reduction, feature selection, and combinatorial optimization.
+
+For a comprehensive overview of my academic and professional background, please refer to my concise [cv/Ebrahimpour-CV.pdf CV].
 
 == Research
 My research interests include:
+- Generative AI
+- LLM
 - 3D Perception 
 - Deep Metric Learning
 - Auditory Object Recognition
@@ -24,13 +30,15 @@ My research interests include:
 
 [research.html Find out more].
 == Professional Appointments
-- [https://www.ericsson.com/en Ericsson Inc.] - Senior Research Scientist (May 2021 - Present).
+- [https://www.apple.com Apple] - AI/ML Scientist (Dec 2023, Now).
+- [https://www.ericsson.com/en Ericsson Inc.] - Senior Research Scientist (May 2021 - Dec 2023).
 - [https://alarm.com/ ObjectVideo Labs - Alarm.com] - Research Scientist (May 2020 - May 2021).
 - [https://www.accenture.com/us-en/ Accenture Labs] - Research Scientist (Aug 2019 - April 2020)
 - [https://www.ancestry.com/ Ancestry Inc.] - Computer Vision Scientist (May 2018 - Aug 2018).
 
 == Recent Publications 
 - Deep Metric Learning
+. F. Saberi Movahed, M.K. Ebrahimpour, F. Saberi-Movahed, M. Moshavash, D. Rahmatian, M. Mohazzebi, M. Shariatzadeh, M. Eftekhari,``Deep Metric Learning with Soft Orthogonal Proxies", /In BayLearn 2023. \n \[[https://baylearn-org.github.io/www/submissions.html paper]\]\  \[[https://arxiv.org/abs/2306.13055 longer version]\]\
 . M.K.Ebrahimpour, G.Qian, A.Beach, ``Multi-Head Deep Metric Learning Using Global and Local Representations'', /In WACV 2022/. \n \[[papers/wacv2022.pdf paper]\]\  \[[papers/wacv2022_long.pdf longer version]\]\
 - Auditory Object Recognition
 . M.K.Ebrahimpour, S.Schneider, D.C.Noelle, C.Kello, ``Infantnet: A deep neural network for analyzing infant vocalizations'' , /In arXiv 2020/. \n \[[https://arxiv.org/pdf/2005.12412.pdf paper]\]\
